@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Automobile
+comment1.params=numero
+comment1.target=Automobile(int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=t
+comment3.target=void\ giroCompletato(double)
+comment4.params=
+comment4.target=void\ garaCompletata()
+comment5.params=
+comment5.target=int\ getNumero()
+numComments=6
